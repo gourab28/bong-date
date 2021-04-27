@@ -1,0 +1,26 @@
+{
+  "name": "bong-date",
+  "version": "1.0.0",
+  "description": "Bangla Calendar",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gourab28/bong-date"
+  },
+  "keywords": [
+    "BongDate",
+    "BanglaDate",
+    "Bangla",
+    "Calendar"
+  ],
+  "author": "Gourab Das",
+  "license": "MIT",
+  "dependencies": {
+    "bangla-calendar": "^1.0.0",
+    "fastify": "^3.15.0",
+    "moment": "^2.29.1"
+  }
+}
